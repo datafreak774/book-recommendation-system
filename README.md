@@ -2,7 +2,12 @@
 
 A comprehensive web application that provides personalized book recommendations based on user queries, combining data from Google Books API with Amazon pricing and review information. This system analyzes books for emotional content, categorizes them, and offers insightful visualizations.
 
-<img width="1430" alt="Screenshot 2025-04-19 at 8 11 53 PM" src="https://github.com/user-attachments/assets/5c4552dd-f624-43c7-8e01-caefa4f58e8e" />
+<img width="1434" alt="image" src="https://github.com/user-attachments/assets/b39fc655-de58-4e2f-a5c5-1b092c795236" />
+
+<img width="1428" alt="image" src="https://github.com/user-attachments/assets/d48001e2-0e50-4351-b5ec-28a0061113cb" />
+
+<img width="1432" alt="image" src="https://github.com/user-attachments/assets/15aa48aa-0114-4d35-aafd-574e1e9a317f" />
+
 
 ## Features
 
