@@ -8,6 +8,16 @@ A comprehensive web application that provides personalized book recommendations 
 
 <img width="1432" alt="image" src="https://github.com/user-attachments/assets/15aa48aa-0114-4d35-aafd-574e1e9a317f" />
 
+<img width="1432" alt="image" src="https://github.com/user-attachments/assets/3069ffeb-9b0a-4ad8-b71f-b9010739e86b" />
+
+<img width="1424" alt="image" src="https://github.com/user-attachments/assets/7f6c0670-ebae-41c3-9640-82d013fe8157" />
+
+<img width="1427" alt="image" src="https://github.com/user-attachments/assets/8e521ec6-3903-45e4-95b7-943d3395ad01" />
+
+<img width="941" alt="image" src="https://github.com/user-attachments/assets/2606348e-6e37-49c7-8f2a-cfd76c2b866e" />
+
+<img width="945" alt="image" src="https://github.com/user-attachments/assets/82f9f56d-7a60-44bc-9085-28b28b1dd9e9" />
+
 
 ## Features
 
