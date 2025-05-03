@@ -118,13 +118,3 @@ The application consists of two main components:
 4. When a user requests Amazon data, the backend scrapes pricing and review information
 5. Reviews are analyzed for sentiment and key topics
 6. All information is presented in an intuitive interface with filtering capabilities
-
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
